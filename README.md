@@ -10,8 +10,8 @@ You can find everything you need to reproduce the paper's results in this reposi
 </p>
 
 ## How to install
-There are two main folders in this repository:
-1. chpi:                       HPI for clustering 
-2. hyperparameter_tunability:  HPI  for classification
+There are two main repository for this paper:
+1. chpi:                       [HPI for six clustering algorithms](https://github.com/DataSystemsGroupUT/chpi)
+2. hyperparameter_tunability:  [HPI  for six classification algorithms](https://github.com/DataSystemsGroupUT/HyperParameterTunability)
 
-Check the hyperparameter tunability folder first in order to reproduce the classification section of the paper, then do the same for clustering in the chpi folder.
+Check the hyperparameter tunability repository first in order to reproduce the classification section of the paper, then do the same for clustering in the chpi repository.
